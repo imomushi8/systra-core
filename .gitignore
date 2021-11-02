@@ -1,0 +1,11 @@
+.idea
+logs/
+logback.xml
+build.sbt
+test/scala/
+# Project exclude paths
+/project/project/target/
+/project/target/
+/target/
+/target/scala-2.13/classes/
+/target/scala-2.13/test-classes/
